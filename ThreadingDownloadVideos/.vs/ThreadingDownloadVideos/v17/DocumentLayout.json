@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|c:\\users\\bilal\\source\\repos\\threadingdownloadvideos\\threadingdownloadvideos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|solutionrelative:threadingdownloadvideos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|c:\\users\\bilal\\source\\repos\\threadingdownloadvideos\\threadingdownloadvideos\\forms\\frmaddvideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|solutionrelative:threadingdownloadvideos\\forms\\frmaddvideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|c:\\users\\bilal\\source\\repos\\threadingdownloadvideos\\threadingdownloadvideos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|solutionrelative:threadingdownloadvideos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|c:\\users\\bilal\\source\\repos\\threadingdownloadvideos\\threadingdownloadvideos\\global\\downloadvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|solutionrelative:threadingdownloadvideos\\global\\downloadvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|c:\\users\\bilal\\source\\repos\\threadingdownloadvideos\\threadingdownloadvideos\\global\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|solutionrelative:threadingdownloadvideos\\global\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|c:\\users\\bilal\\source\\repos\\threadingdownloadvideos\\threadingdownloadvideos\\forms\\frmaddvideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55AAFDEE-7207-4843-B7DC-C53085D72F68}|ThreadingDownloadVideos\\ThreadingDownloadVideos.csproj|solutionrelative:threadingdownloadvideos\\forms\\frmaddvideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\Global\\Notification.cs",
+              "RelativeDocumentMoniker": "ThreadingDownloadVideos\\Global\\Notification.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\Global\\Notification.cs",
+              "RelativeToolTip": "ThreadingDownloadVideos\\Global\\Notification.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:45:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DownloadVideo.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\Global\\DownloadVideo.cs",
+              "RelativeDocumentMoniker": "ThreadingDownloadVideos\\Global\\DownloadVideo.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\Global\\DownloadVideo.cs",
+              "RelativeToolTip": "ThreadingDownloadVideos\\Global\\DownloadVideo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA5wDIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:03:06.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddVideos.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\forms\\frmAddVideos.cs",
+              "RelativeDocumentMoniker": "ThreadingDownloadVideos\\forms\\frmAddVideos.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\forms\\frmAddVideos.cs",
+              "RelativeToolTip": "ThreadingDownloadVideos\\forms\\frmAddVideos.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAewCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:20:05.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAddVideos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\forms\\frmAddVideos.cs",
+              "RelativeDocumentMoniker": "ThreadingDownloadVideos\\forms\\frmAddVideos.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\forms\\frmAddVideos.cs [Design]",
+              "RelativeToolTip": "ThreadingDownloadVideos\\forms\\frmAddVideos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:19:15.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\Form1.cs",
+              "RelativeDocumentMoniker": "ThreadingDownloadVideos\\Form1.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\Form1.cs",
+              "RelativeToolTip": "ThreadingDownloadVideos\\Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:42:37.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\Form1.cs",
+              "RelativeDocumentMoniker": "ThreadingDownloadVideos\\Form1.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\ThreadingDownloadVideos\\ThreadingDownloadVideos\\Form1.cs [Design]",
+              "RelativeToolTip": "ThreadingDownloadVideos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:34:29.499Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

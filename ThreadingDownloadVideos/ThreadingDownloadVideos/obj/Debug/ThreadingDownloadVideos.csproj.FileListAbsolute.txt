@@ -1,0 +1,17 @@
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\bin\Debug\ThreadingDownloadVideos.exe.config
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\bin\Debug\ThreadingDownloadVideos.exe
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\bin\Debug\ThreadingDownloadVideos.pdb
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\bin\Debug\libvideo.dll
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\ThreadingDownloadVideos.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\ThreadingDownloadVideos.Form1.resources
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\ThreadingDownloadVideos.Properties.Resources.resources
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\ThreadingDownloadVideos.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\ThreadingDownloadVideos.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\Threadin.F1F2D3E1.Up2Date
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\ThreadingDownloadVideos.exe
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\ThreadingDownloadVideos.pdb
+C:\Users\bilal\source\repos\ThreadingDownloadVideos\ThreadingDownloadVideos\obj\Debug\ThreadingDownloadVideos.forms.frmAddVideos.resources
